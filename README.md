@@ -2,7 +2,7 @@
   <img width="658" height="200" alt="image" src="https://raw.githubusercontent.com/Made-By-Matt/Glue3D-Community-Version/refs/heads/main/Glue3D%20Banner.png" />
 </p>
 
-# Glue3D CV
+# Glue3D CE
 
 **Glue3D Comunity Edition** Is the offical way to contribute and keep updates for Glue3D owned and ran by the community
 
