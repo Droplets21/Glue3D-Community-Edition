@@ -1,0 +1,2 @@
+The way that this works is legit by deleting larger files by the "Compression" broadcast.
+Theres is also a "Uncompress" broadcast it needs a wifi connection since it adds the sound back through this githubrepo
