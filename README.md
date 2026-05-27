@@ -1,4 +1,4 @@
-![v1.1.2 beta "gameplay"](https://github.com/Droplets21/Glue3D-Community-Edition/blob/main/new_banner.png)
+![banner](https://github.com/Droplets21/Glue3D-Community-Edition/blob/main/new_banner(denis).png)
 
 # Glue3D CE
 
