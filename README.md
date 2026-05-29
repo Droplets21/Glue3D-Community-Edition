@@ -30,7 +30,7 @@ By the next build or even beta, your feature will be added **please check the co
 
 ## Things to note
 
-This is ran and owned by the community, Gl00b has no ascociation with this project.
+This is ran and owned by the community. GL00B, the creator of the original Glue3D has no ascociation with this project.
 
 ### Resources
 
@@ -53,8 +53,10 @@ Now that you have your copy, it's time to read the documentation :).
 All documentation is available at https://gl00b.github.io/GLUE3D/
 
 ## Credits
+Glue3D Community Edition is in active devolpment by the Glue3D community. This project is led primarily by Droplets21.
 
-Glue3D is not ours, it was developed by Gl00b and can be found [here](https://github.com/GL00B/GLUE3D)
+Glue3D(the original) is not ours, it was developed by GL00B(aka The3DScratcher) and can be found [here](https://github.com/GL00B/GLUE3D)
+<sub>Glue3D by GL00B has been abandoned and will not recieve updates in the forseeable future.</sub>
 
 
 
