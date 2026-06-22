@@ -3,7 +3,7 @@ This is documentation on how to mod Glue3DCE, this will introduce you into how m
 
 ## Modding basics
 1. **Extensions**\
-  Glue3DCE comes with many extensions to make certain features possible, here are all of them (by v1.2) and what they do
+  Glue3DCE comes with many (turbowarp) extensions to make certain features possible, here are all of them (by v1.2) and what they do
     * **text** for string manipulation, very useful for data-related moments like parsing
     * **JSON** for handeling data in packets, useful for files and storing constants or simply just data
     * **pen** used for rendering everything
