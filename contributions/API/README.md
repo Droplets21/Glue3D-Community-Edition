@@ -1,9 +1,11 @@
 ## What is this?
 This is documentation on how to mod Glue3DCE, this will introduce you into how many Glue3D elements work, how to do certain stuff, and some added features
+> [!note]
+> this is a work in progress
 
 ## Modding basics
 1. **Extensions**\
-  Glue3DCE comes with many extensions to make certain features possible, here are all of them (by v1.2) and what they do
+  Glue3DCE comes with many (turbowarp) extensions to make certain features possible, here are all of them (by v1.2) and what they do
     * **text** for string manipulation, very useful for data-related moments like parsing
     * **JSON** for handeling data in packets, useful for files and storing constants or simply just data
     * **pen** used for rendering everything
@@ -12,7 +14,7 @@ This is documentation on how to mod Glue3DCE, this will introduce you into how m
     * **Lily's toolbox** is an extension with a lot of very useful features, whatever you need will most likley be in there, but make sure to check "legacy" blocks too
     * **Asset manager** can be used to manipulate the engines internal code, it can be used to import and delete sprites, add and remove assets; like sounds and costumes, and more
 >   [!WARNING]\
->   the **Asset manager** extensions is **very** powerful, please be careful with how you use it\
+>   the **Asset manager** extensions is **very** powerful, please be careful with how you use it
 * Continuing... these extensions are very useful, now when modding Glue3DCE you may be tempted to add more extensions, but I recommend you stick to the ones Glue3DCE already has, like don't get an extension to open websites when **Lily's toolbox** already has that features, and don't get extensions for something that can easilly and quickly be done by vanilla-code
 
 2. **Functions**\
@@ -28,7 +30,7 @@ This is documentation on how to mod Glue3DCE, this will introduce you into how m
      * **Render2D** renders a costume, with many inputs like position, size, direction, `GBC`, and even if it's interactive
      * **Render box** renders a box using two 2Dvectors, with inputs like `GBC` and it's type (idk what this input does, so just set it to `1` for default)
      * **Text** draws a string, with many inputs like position, size, if it's centered, `GBC`, and even if it shows a cursor for when editing
-     * **Gui element** renders certain ui-elements using instructions, this one is a bit harder to use since you're setting up the instructions in a list-before calling the function, but I recommend you find and see how the engine uses them to find out how the work
+     * **Gui element** renders certain ui-elements using instructions, this one is a bit harder to use since you're setting up the instructions in a list-before calling the function, but I recommend you find and see how the engine uses them to find out how they work
   
 4. **Category extensions**\
    to make a category extension, you must first create it's entry in the autocomplete, then define it's code, and then upload it. This is too much to write about so just ask @Droplets21 about it on the Glue3d.net discord, when your done with both those steps, follow this [video](https://youtu.be/ZRG8cP-OHhk)
