@@ -38,6 +38,7 @@ This is ran and owned by the community. GL00B, the creator of the original Glue3
 - **Forum**: [forum.glue3d.net](https://forum.glue3d.net/)
 - **Ko-fi**: [Donate on Ko-fi](https://ko-fi.com/glue3d)
 - **Discord**: [Join the Discord](https://discord.gg/JvNJ3cFz)
+- **VSCode Glue3D Extension**: [Github repository](https://github.com/SavvyScripter-GH/glue3d#readme)
   
 ## Getting Started
 
